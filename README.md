@@ -4,10 +4,12 @@
   - finding the limits of software
   - mobility
   - modularity
+  - reusability
   - file systems
   - embedded systems
   - identity providers
 - 🌱 I’m currently learning
+  - Blazor
   - Python
   - Rust
   - Haskell
